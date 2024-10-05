@@ -63,9 +63,9 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
              <td align="center">
                 <a href="https://github.com/trish929">
-                    <img src="https://avatars.githubusercontent.com/u/182584046?v=4" width="100px;" alt="Trishla Gaha"/>
+                    <img src="https://avatars.githubusercontent.com/u/182584046?v=4" width="100px;" alt="Trishla  Gaha"/>
                     <br />
-                    <sub><b>Trishla Gaha</b></sub>
+                    <sub><b>Trishla  Gaha</b></sub>
                 </a>
             </td>
             <td align="center">
