@@ -62,10 +62,10 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
              <td align="center">
-                <a href="https://github.com/nandini1010">
-                    <img src="https://avatars.githubusercontent.com/u/65915924?v=4" width="100px;" alt="Nandini"/>
+                <a href="https://github.com/trish929">
+                    <img src="https://avatars.githubusercontent.com/u/182584046?v=4" width="100px;" alt="Trishla Gaha"/>
                     <br />
-                    <sub><b>Nandini</b></sub>
+                    <sub><b>Trishla Gaha</b></sub>
                 </a>
             </td>
             <td align="center">
